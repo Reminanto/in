@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788558506979",
+    "project_id": "intern-16b59",
+    "storage_bucket": "intern-16b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788558506979:android:3f3c706adc230855d64ed6",
+        "android_client_info": {
+          "package_name": "com.example.inten"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw5zX9C-wtykJmlBP6rIJnBzrcuXr41Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
